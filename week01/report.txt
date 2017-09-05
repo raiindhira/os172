@@ -1,0 +1,2 @@
+di lab week 1 ini saya belajar membuat direktori dan file di local server, saya push ke dalam akun github saya. kemudian saya membuat file dummy di week01-week10, sandbox, key, log,xtra. kemudian juga membuat file whystudy os pada lab01.txt, disini belajar untuk membuat file di dalam file2 dummy
+
