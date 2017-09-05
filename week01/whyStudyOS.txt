@@ -1,1 +1,8 @@
 #raiindhira
+~OS is a key part of a computer system
+– it makes our lives better (and worse)
+– it is “magic” and we want to understand how
+– it has “power” and we want to have the power
+~Understand how computers work under the hood
+~Operating systems are key components in many
+systems
