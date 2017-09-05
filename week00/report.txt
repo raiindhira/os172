@@ -1,0 +1,2 @@
+#rai indhira
+pada lab os week00 minggu lalu, saya membuat akun git dan kemudian didaftarkan ke badak dengan mengisi gfrom. dan menunggu 24 jam. kemudian login ke badak melalu putty, yang menjebambatani windows dengan linux.
